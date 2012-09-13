@@ -21,19 +21,15 @@ Install
 
 Run the script:
 
-    zsh < <(curl -s https://raw.github.com/thoughtbot/laptop/master/mac)
+    zsh < <(curl -s https://raw.github.com/charitybuzz/laptop/master/mac)
 
 What it sets up
 ---------------
 
 * Ack for finding things in files
 * Bundler gem for managing Ruby libraries
-* Foreman gem for serving Rails apps locally
-* Heroku gem for interacting with the Heroku API
-* Heroku Config plugin for local `ENV` variables
 * Homebrew for managing operating system libraries
 * ImageMagick for cropping and resizing images
-* Postgres for storing relational data
 * Postgres gem for talking to Postgres from Ruby
 * Qt for headless JavaScript testing via Capybara Webkit
 * Rails gem for writing web applications
